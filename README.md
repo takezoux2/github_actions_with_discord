@@ -1,1 +1,4 @@
 # github_actions_with_discord
+
+Github Actionsを使ってdiscordに通知する機能のテスト用レポジトリ
+ScalaMatsuriのアンカンファレンスのお題集めと投票をGithubのProject機能で実現できないかの検証のため
